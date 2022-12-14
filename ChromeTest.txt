@@ -1,3 +1,6 @@
-git learning
-git init
-git add
+step1 git init
+step 2 git add filename
+step3 git status
+step4 git origin name(cloud url)
+step5 git push -u master
+step6 git username and password
