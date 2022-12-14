@@ -1,3 +1,8 @@
 git learning
 git init
 git add
+git status
+git commite
+git origin
+git push
+git username and password
